@@ -1,3 +1,4 @@
+//Ejemplo de callback
 
 // Funcion de primer onden, el que recibe callback
 function dateNow(cb){

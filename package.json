@@ -1,0 +1,23 @@
+{
+  "name": "course-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback:api": "node fundamentos/asincronismo/callback/05-example.js   "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illacoe/course-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illacoe/course-node/issues"
+  },
+  "homepage": "https://github.com/illacoe/course-node#readme",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}

@@ -1,3 +1,4 @@
+// Promesas
 // Las promesas tienen estados, resueltas, no resueltas, pendientes, en error
 
 function hola(nombre) {

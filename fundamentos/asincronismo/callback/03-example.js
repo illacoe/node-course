@@ -1,3 +1,5 @@
+//Ejemplo de Callback Hell
+
 function hola(nombre, cb) {
     setTimeout(function(){
         console.log('Hola ' + nombre);

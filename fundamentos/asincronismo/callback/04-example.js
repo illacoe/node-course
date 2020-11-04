@@ -1,3 +1,4 @@
+ // Ejemplo de callback con funciones recursivas
  
 function hola(nombre, miCallback) {
     setTimeout(function () {
