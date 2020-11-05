@@ -16,10 +16,10 @@ async function main(){
         console.log(origenPersonaje.dimension);
         console.log('Terminando Proceso..')
         
-      } catch (error) {
+    } catch {
         console.error(error);
-      }
+    }
 }
 
 console.log('Iniciando Proceso..')
-main();
+main();  
